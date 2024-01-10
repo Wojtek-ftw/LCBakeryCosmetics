@@ -1,0 +1,11 @@
+{
+    "name": "LC Bakery Cosmetics",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/Wojtek-ftw/LCBakeryCosmetics",
+    "description": "Add some bling and gucci to your cosmic-horror filled misadventures with the company!",
+    "author": ["wojtek-ftw",""],
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.3",
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+} 
