@@ -31,7 +31,7 @@ jobs:
 
       # Run zip command on cosmetics folder
       - name: zip directory
-        run: gzip cosmetics
+        run: tar -zv cosmetics
         
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
